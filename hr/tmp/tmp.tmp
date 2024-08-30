@@ -1,0 +1,16 @@
+public void setCode(int code)
+{
+this.code=code;
+}
+public int getCode()
+{
+return this.code;
+}
+public void setTitle(java.lang.String title)
+{
+this.title=title;
+}
+public java.lang.String getTitle()
+{
+return this.title;
+}
