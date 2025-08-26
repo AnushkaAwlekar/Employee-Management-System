@@ -7,7 +7,7 @@ The **Employee Management System (EMS)** is a Java-based desktop application tha
 
 ## 📸 Video
 
-https://github.com/user-attachments/assets/ed644293-8eab-4762-955c-bad2a80db5b4
+https://github.com/user-attachments/assets/4d7b9063-1e01-4221-83d1-fcf3f4cc6692
 
 ---
 
