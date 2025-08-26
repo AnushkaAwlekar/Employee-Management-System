@@ -1,5 +1,47 @@
-# Data-Management-System
-•	Application leveraging a multi-layer architecture (data, business, presentation) enabling seamless CRUD operations and PDF export. 
-•	Establishing and managing connections to a MySQL database using JDBC.
-•	Ensuring modularity and ease of maintenance across layers without interdependencies.
+📘 Employee Management System
 
+📌 Overview
+
+The Employee Management System (EMS) is a Java-based desktop application that provides a seamless way to manage employee records. It allows administrators to add, update, delete, and view employee details, while also supporting data storage and export functionalities. The project follows a three-layered architecture (Data Layer, Business Layer, Presentation Layer) ensuring modularity, maintainability, and scalability.
+
+🚀 Features
+
+➕ Add New Employee – Register employees with essential details.
+
+✏️ Edit Employee Details – Update existing employee information.
+
+❌ Delete Employee Records – Remove employees from the system.
+
+📄 Save & Export – Store data persistently and export to PDF format.
+
+🔎 Search & View – Retrieve employee data efficiently.
+
+🏗 Layered Architecture – Changes in one layer do not affect others.
+
+🛠 Tech Stack
+
+Programming Language: Java
+
+Architecture: 3-Tier (Data Layer, Business Layer, Presentation Layer)
+
+File Handling: For persistent data storage
+
+Exporting: PDF (Report generation)
+
+📂 Project Structure
+EmployeeManagementSystem/
+│── src/
+│   ├── data/             # Data Layer (file handling, persistence)
+│   ├── business/         # Business Layer (logic, validation, operations)
+│   ├── presentation/     # Presentation Layer (UI/console interaction)
+│── exports/              # Exported PDF files
+│── README.md             # Project documentation
+
+
+📖 Future Enhancements
+
+✅ Add authentication and role-based access.
+
+✅ Build a GUI-based interface for better usability.
+
+✅ Deploy as a web application using Spring Boot.
