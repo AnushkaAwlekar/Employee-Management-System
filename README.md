@@ -29,17 +29,6 @@ https://github.com/user-attachments/assets/4d7b9063-1e01-4221-83d1-fcf3f4cc6692
 
 ---
 
-## 📂 Project Structure  
-```
-EmployeeManagementSystem/
-│── src/
-│   ├── data/             # Data Layer (file handling, persistence)
-│   ├── business/         # Business Layer (logic, validation, operations)
-│   ├── presentation/     # Presentation Layer (UI/console interaction)
-│── exports/              # Exported PDF files
-│── README.md             # Project documentation
-
-```
 
 ## 📌 Example Use Case  
 - An HR manager can use the system to **register new employees**, update their roles, or remove records when employees leave.  
